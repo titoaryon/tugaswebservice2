@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logbarang> 
+	<databarang>   
+		<nama_barang>Samsung</nama_barang> 
+		<satuan_barang>PC</satuan_barang>  
+		<harga_barang>5000</harga_barang>   
+			<pt_asal>Ladyrock</pt_asal>   
+			<kodewil_asal>10</kodewil_asal> 
+			<pt_tujuan>Union</pt_tujuan>   
+			<kodewil_tujuan>1001</kodewil_tujuan> 
+	</databarang>  
+ 
+	<databarang>  
+		<nama_barang>Lenovo</nama_barang>  
+		<satuan_barang>PC</satuan_barang>  
+		<harga_barang>1000</harga_barang>     
+			<pt_asal>Ladyrock</pt_asal>   
+			<kodewil_asal>10</kodewil_asal>  
+			<pt_tujuan>Mitra kencana</pt_tujuan>   
+			<kodewil_tujuan>300</kodewil_tujuan>
+	</databarang>  
+	<databarang>  
+		<nama_barang>Acer</nama_barang>  
+		<satuan_barang>HP</satuan_barang>  
+		<harga_barang>200</harga_barang>     
+			<pt_asal>Mitra Kencana</pt_asal>   
+			<kodewil_asal>300</kodewil_asal>  
+			<pt_tujuan>Union</pt_tujuan>   
+			<kodewil_tujuan>1001</kodewil_tujuan>
+	</databarang>  
+	<databarang>  
+		<nama_barang>Lenovo</nama_barang>  
+		<satuan_barang>HP</satuan_barang>  
+		<harga_barang>1000</harga_barang>     
+			<pt_asal>Makmur Sejahtera</pt_asal>   
+			<kodewil_asal>101</kodewil_asal>  
+			<pt_tujuan>Juara Satu</pt_tujuan>   
+			<kodewil_tujuan>104</kodewil_tujuan>
+	</databarang>  
+	<databarang>  
+		<nama_barang>Asus</nama_barang>  
+		<satuan_barang>PC</satuan_barang>  
+		<harga_barang>1000</harga_barang>     
+			<pt_asal>Juara Satu</pt_asal>   
+			<kodewil_asal>104</kodewil_asal>  
+			<pt_tujuan>Lady Rock</pt_tujuan>   
+			<kodewil_tujuan>10</kodewil_tujuan>
+	</databarang>  
+ 
+</logbarang> 
